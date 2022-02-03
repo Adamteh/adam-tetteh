@@ -7,6 +7,6 @@ class Player {
   2. health as int
 */
 
-// Create a getter function (attack) to return random a integer ranging from 0 to 50
+// Create a getter function (attack) to return a random integer ranging from 0 to 50
 
 }
